@@ -2,4 +2,4 @@ Hellow, Ihar! 123
 It's new line.
 Don't understand yet
 Try to understand soft reset
-
+want make git fetch
